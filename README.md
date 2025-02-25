@@ -26,7 +26,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tienda-de-ropa.git
+   git clone git@github.com:CAMCDI/pagina-prueba.git
 Abre el archivo index.html en tu navegador.
 Contribuciones
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora para este proyecto, puedes hacer un pull request o abrir un issue.
